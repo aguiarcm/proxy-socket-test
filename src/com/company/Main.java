@@ -7,7 +7,8 @@ import java.net.ServerSocket;
 import java.net.Socket;
 
 public class Main {
-
+    //https://docs.oracle.com/javase/tutorial/displayCode.html?code=https://docs.oracle.com/javase/tutorial/networking/sockets/examples/KKMultiServerThread.java
+    //http://www.java2s.com/Code/Java/Network-Protocol/AverysimpleWebserverWhenitreceivesaHTTPrequestitsendstherequestbackasthereply.htm
     public static void main(String[] args) {
         try {
 
